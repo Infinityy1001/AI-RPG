@@ -41,7 +41,9 @@ Welcome to the **AI RPG**, a storytelling experience where you are the creator o
    - Right-click on the file and select **Open with Live Server**.
    - This will launch your project in the browser.
 
-6. **Begin Your Journey**: Enter a creative prompt and hit **Start** to dive into your personalized story.
+6. **IMPORTANT**: For the best experience, open the project in Google Chrome. This ensures full compatibility with all interactive features.
+
+7. **Begin Your Journey**: Enter a creative prompt and hit Start to dive into your personalized story.
 
 ---
 
