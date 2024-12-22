@@ -75,12 +75,12 @@ Here’s an overview of the project structure to help you navigate through the c
 
 ```
 AI-RPG/
-├── index.html        # Main HTML file for loading the app
-├── style.css         # Stylish visuals for an immersive experience
-├── script.js         # Core logic for dynamic story generation
-├── assets/           # Visual and media assets like images and GIFs
-│   └── demo.gif      # A preview GIF of the project in action
-└── README.md         # You are currently reading this file
+├── index.html        
+├── style.css         
+├── script.js        
+├── assets/           
+│   └── demo.gif      
+└── README.md         
 ```
 
 ---
