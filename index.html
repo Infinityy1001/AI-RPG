@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI RPG - WebLLM (Live Typewriter)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>AI Role-Playing Game</h1>
+
+    <!-- Initial Context -->
+    <div class="initial-section">
+      <label for="prompt">Initial context:</label><br>
+      <textarea id="prompt" rows="4" placeholder="e.g. You are a brave adventurer in a mysterious land..."></textarea><br>
+      <button id="start">Start Adventure</button>
+      <div id="loading-wheel" class="loading-wheel"></div>
+    </div>
+
+    <!-- Game Zone -->
+    <div class="game-section" style="display:none;">
+      
+      <div id="initial-context"></div>
+
+      
+      <div id="story-container">
+        <div id="story" aria-live="polite"></div>
+      </div>
+      <div id="choices"></div>
+      <div id="loading-container" style="display:none;">
+        <div class="spinner"></div>
+        <p id="loading">Generating story...</p>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>
