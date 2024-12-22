@@ -1,4 +1,4 @@
-# 🌟 Interactive Story Generator 🌟
+# 🌟 Story Generator 🌟
 
 Welcome to the **AI RPG**, a storytelling experience where you are the creator of your own adventure ! Enter a world where your words shape the narrative, and every choice you make influences the outcome. Powered by AI, this tool dynamically generates stories and allows you to steer the plot with every decision. Are you ready to craft your own journey ?
 
